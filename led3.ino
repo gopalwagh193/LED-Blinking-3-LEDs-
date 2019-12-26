@@ -1,9 +1,16 @@
+/*
+IOT & Embedded System
+Gopal Wagh
+Web:- https://iotandembeddedsystem.blogspot.com/2019/11/iot-embedded-source-code-with-hardware.html?m=1
+Insta:-https://instagram.com/__i__o__t__?igshid=1do5vrbmpdlit
+*/
+
+
 void setup()
 {
 pinMode(13,OUTPUT);
 pinMode(12,OUTPUT);
 pinMode(11,OUTPUT);
-
 }
 
 void loop() 
